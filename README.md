@@ -7,7 +7,7 @@ a whole day of working.
 
 # Screenshots
 
-![Screenshot 1]()
+![Screenshot 1](https://raw.github.com/Bamco/MTI_colorscheme/master/readme-imgs/MTI_dark.png)
 
-![Screenshot 2]()
+![Screenshot 2](https://raw.github.com/Bamco/MTI_colorscheme/master/readme-imgs/MTI_light.png)
 
