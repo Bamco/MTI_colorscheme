@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comment</key>
+	<string>Created by Bamco.</string>
+	<key>author</key>
+	<string>Bamco</string>
+	<key>name</key>
+	<string>MTI_light</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#111129</string>
+
+				<key>caret</key>
+				<string>#FFFFFF</string>
+				
+				<key>foreground</key>
+				<string>#AAAAAA</string>
+				
+				<key>invisibles</key>
+				<string>#FFFFFF26</string>
+				
+				<key>lineHighlight</key>
+				<string>#AAAAAA</string>
+				
+				<key>selection</key>
+				<string>#B36539BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#449999</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#AAAAAA</string>
+			</dict>
+		</dict>	
+	</array>
+	<key>uuid</key>
+	<string>3f17d322-cdad-11e1-a651-9b5cc12df90d</string>
+</dict>
+</plist>
