@@ -57,7 +57,31 @@
 				<key>foreground</key>
 				<string>#AAAAAA</string>
 			</dict>
-		</dict>	
+		</dict>
+		<!-- Python doc string like a comment -->
+		<dict>
+            <key>name</key>
+            <string>Comment</string>
+            <key>scope</key>
+            <string>comment, string.quoted.double.block.python</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#449999</string>
+            </dict>
+        </dict>
+        <!-- Clojure doc string like a comment -->
+        <dict>
+            <key>name</key>
+            <string>Comment</string>
+            <key>scope</key>
+            <string>comment, string.docstring.clojure</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#449999</string>
+            </dict>
+        </dict>
 	</array>
 	<key>uuid</key>
 	<string>3f17d322-cdad-11e1-a651-9b5cc12df90d</string>
